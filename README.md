@@ -140,4 +140,5 @@ Here are example input orders to use with each of the choices available in the p
 
 ## Error Handling
 The application handles various errors, such as failed order placements or WebSocket reconnections. Errors are logged and printed to the console.
+In case of error Failed to find access_token.txt, clone the repository again, and from the "Deribit_TestAPI_GoQuant\out\build\x64-Debug",copy and store the access_token,refresh_token ,api_key and api_secret texts files, and after reconfiguration of CMake ,paste them again. (As this is a private repository i am providing my api_key and api_secret for testing)
 
