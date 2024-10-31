@@ -1,0 +1,17 @@
+# ninja log v5
+5	15	0	clean	8c45b54705a541e8
+40	3119	7520830507011369	CMakeFiles/goquant_oems.dir/GoQuantOEMSApp/api_credentials.cpp.obj	ec9c84217c2fec38
+17	4730	7520830523359006	CMakeFiles/goquant_oems.dir/GoQuantOEMSApp/web_socket_client.cpp.obj	6f7fdffb7fe67d09
+34	5188	7520830528067532	CMakeFiles/goquant_oems.dir/GoQuantOEMSApp/token_manager.cpp.obj	4f58244ccbd503c0
+12	5405	7520830530419897	CMakeFiles/goquant_oems.dir/GoQuantOEMSApp/main.cpp.obj	d0754f40456f9b30
+29	5445	7520830531205328	CMakeFiles/goquant_oems.dir/GoQuantOEMSApp/utility_manager.cpp.obj	71e90eb13280b20
+23	5550	7520830532300095	CMakeFiles/goquant_oems.dir/GoQuantOEMSApp/order_manager.cpp.obj	e3c26b427abd2b43
+5550	7075	7520830536989648	goquant_oems.exe	75be72c2394ebf02
+5	18	0	clean	8c45b54705a541e8
+42	2737	7520830837280812	CMakeFiles/goquant_oems.dir/GoQuantOEMSApp/api_credentials.cpp.obj	ec9c84217c2fec38
+19	4492	7520830855217438	CMakeFiles/goquant_oems.dir/GoQuantOEMSApp/web_socket_client.cpp.obj	6f7fdffb7fe67d09
+36	5370	7520830864347469	CMakeFiles/goquant_oems.dir/GoQuantOEMSApp/token_manager.cpp.obj	4f58244ccbd503c0
+30	5456	7520830865501750	CMakeFiles/goquant_oems.dir/GoQuantOEMSApp/utility_manager.cpp.obj	71e90eb13280b20
+12	5527	7520830866242756	CMakeFiles/goquant_oems.dir/GoQuantOEMSApp/main.cpp.obj	d0754f40456f9b30
+25	5599	7520830866949743	CMakeFiles/goquant_oems.dir/GoQuantOEMSApp/order_manager.cpp.obj	e3c26b427abd2b43
+5599	6849	7520830869129232	goquant_oems.exe	75be72c2394ebf02

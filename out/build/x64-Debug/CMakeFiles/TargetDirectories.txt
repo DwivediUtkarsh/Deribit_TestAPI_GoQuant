@@ -1,0 +1,3 @@
+D:/Final_proj/out/build/x64-Debug/CMakeFiles/goquant_oems.dir
+D:/Final_proj/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Final_proj/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
