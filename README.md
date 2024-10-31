@@ -1,4 +1,4 @@
-# GoQuant - Order Execution and Management System (OEMS) using Derobit API
+# GoQuant - Order Execution and Management System (OEMS) using Deribit API
 
 ## Overview
 
