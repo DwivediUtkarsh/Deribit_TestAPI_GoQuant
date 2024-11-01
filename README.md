@@ -4,6 +4,9 @@
 
 **GoQuant OEMS** is a cutting-edge C++17 application created to interface with the Deribit cryptocurrency trading platform. It offers an array of trading functions, such as placing, modifying, and canceling orders, along with managing open orders and positions, and fetching order books. Additionally, it features a WebSocket server to allow clients to subscribe to specific symbols and receive continuous updates on the order book.
 
+##   Demonstration video
+https://youtu.be/4peA48lp93Y
+
 
 ## Features
 
