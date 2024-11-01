@@ -107,9 +107,9 @@ Here are example input orders to use with each of the choices available in the p
 
 1. **Place Order**
    - **Action**: `Buy`
-   - **Instrument Name**: `BTC-PERPETUAL`
-   - **Amount**: `0.1`
-   - **Price**: `45000.0`
+   - **Instrument Name**: `ETH-PERPETUAL`
+   - **Amount**: `1`
+   - **Price**: `2500.0`
    - **Order Type**: `LIMIT`
    - **Client id**: `MyFirstOrder`
 
